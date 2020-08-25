@@ -1,5 +1,5 @@
   
-name: AzureCLISample
+name: deployResourcesCLI
 on: 
   push:
     branches: master
